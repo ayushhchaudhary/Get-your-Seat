@@ -12,7 +12,7 @@
     },
     "include": [
         "./**/*.ts"
-    ],
+, "dist/server.js", "dist/server.js"    ],
     "exclude": [
         "node_modules"
     ]
